@@ -29,10 +29,25 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
+author:
+  name: "Your name"
+  bio: "hello world"
+
 # Build settings
-theme: minima
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: dark
 plugins:
   - jekyll-feed
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      show_date: false
+      read_time: true
+      author_profile: true
+      paginate: 0
 
 # Exclude from processing.
 # The following items will not be processed, by default.
