@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 600 600" style="enable-background:new 0 0 600 600;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#8E837D;}
+	.st1{fill:#75675F;}
+	.st2{fill:#9F9289;}
+	.st3{fill:#958882;}
+	.st4{fill:#A89B93;}
+	.st5{opacity:0.3;}
+	.st6{fill:#897D76;}
+	.st7{fill:#D8D0C9;}
+	.st8{fill:#020202;}
+	.st9{fill:#8D827C;}
+	.st10{fill:#877E77;}
+	.st11{opacity:0.1;}
+	.st12{fill:#DDCDC3;}
+	.st13{opacity:0.2;}
+	.st14{fill:#EFE6DF;}
+	.st15{fill:#C6BCB5;}
+	.st16{fill:#2D1B10;}
+	.st17{fill:#B16C3B;}
+	.st18{fill:#C67A45;}
+	.st19{fill:#A55D2B;}
+	.st20{fill:#8D4E23;}
+	.st21{opacity:0.4;}
+	.st22{fill:#542D17;}
+	.st23{fill:#DD915E;}
+	.st24{fill:#382C24;}
+	.st25{fill:#956040;}
+	.st26{fill:#7F4B30;}
+	.st27{fill:#70432D;}
+	.st28{fill:#70452F;}
+	.st29{fill:#357C5E;}
+	.st30{fill:#715F51;}
+	.st31{fill:#5F4D41;}
+	.st32{fill:#221F1F;}
+	.st33{fill:#4F4036;}
+	.st34{fill:#502B1A;}
+	.st35{fill:#AF7151;}
+	.st36{opacity:0.6;}
+	.st37{fill:#7F4E36;}
+	.st38{fill:#E2A979;}
+	.st39{fill:#CE8963;}
+	.st40{fill:#864B49;}
+	.st41{fill:#F4E4C0;}
+	.st42{fill:#B17246;}
+	.st43{fill:#F4E5C1;}
+	.st44{fill:#EFB78E;}
+	.st45{fill:#EED8C9;}
+	.st46{fill:#FFEDDF;}
+	.st47{fill:#B1A095;}
+	.st48{fill:#E9D4C4;}
+	.st49{fill:#B5A094;}
+	.st50{fill:#B19F95;}
+	.st51{fill:#EAEAE8;}
+	.st52{fill:#535352;}
+	.st53{fill:#242424;}
+	.st54{fill:#B6B2A6;}
+	.st55{fill:#969287;}
+	.st56{fill:#F4B563;}
+	.st57{fill:#575853;}
+	.st58{fill:#706D66;}
+	.st59{fill:#DDD6CE;}
+	.st60{fill:#292929;}
+	.st61{fill:#BCB2A7;}
+	.st62{fill:#E0DCD1;}
+	.st63{fill:#FFFFFD;}
+	.st64{fill:#D48A38;}
+	.st65{fill:#CB812F;}
+	.st66{clip-path:url(#SVGID_2_);}
+	.st67{fill:#282016;}
+	.st68{fill:#E89D42;}
+	.st69{fill:#F3C38F;}
+	.st70{opacity:0.7;clip-path:url(#SVGID_4_);}
+	.st71{clip-path:url(#SVGID_6_);}
+	.st72{fill:#E9D0AA;}
+	.st73{fill:#C1AA8A;}
+	.st74{fill:#8A6635;}
+	.st75{fill:#B25A27;}
+	.st76{fill:#D7BC94;}
+	.st77{fill:#BFA580;}
+	.st78{fill:#C5905D;}
+	.st79{fill:#673012;}
+	.st80{fill:#AF774A;}
+	.st81{fill:#AA7549;}
+	.st82{fill:#441B09;}
+	.st83{fill:#99683F;}
+	.st84{fill:#715643;}
+	.st85{fill:#856D5A;}
+	.st86{fill:#AF7C51;}
+	.st87{fill:#A29688;}
+	.st88{fill:#B6ACA0;}
+	.st89{fill:#9B8D7E;}
+	.st90{fill:#7A6E61;}
+	.st91{fill:#E1D7CF;}
+	.st92{fill:#211F1F;}
+	.st93{fill:#D6CABD;}
+	.st94{fill:#7D4428;}
+	.st95{fill:#DBA76F;}
+	.st96{fill:#E8672E;}
+	.st97{fill:#BF4B1D;}
+	.st98{fill:#F07549;}
+	.st99{fill:#C65532;}
+	.st100{fill:#84702C;}
+	.st101{fill:#E0AE77;}
+	.st102{fill:#2C2B26;}
+	.st103{fill:#E0B7B6;}
+	.st104{fill:#C19393;}
+	.st105{fill:#51504C;}
+	.st106{fill:#FFFFFF;}
+	.st107{fill:#121F13;}
+	.st108{fill:#ABBD42;}
+	.st109{fill:#8F992C;}
+	.st110{fill:#BF8A2D;}
+	.st111{fill:#996A1D;}
+	.st112{fill:#CBDB52;}
+	.st113{fill:#6C5E5D;}
+	.st114{fill:#5B4F4F;}
+	.st115{fill:#514444;}
+	.st116{fill:#827575;}
+	.st117{fill:#B8C140;}
+	.st118{fill:#605A4E;}
+	.st119{fill:#5C5B56;}
+	.st120{fill:#6F6D63;}
+	.st121{fill:#6B6455;}
+	.st122{fill:#FBF6F0;}
+	.st123{fill:#7E7869;}
+	.st124{fill:#494539;}
+	.st125{fill:#5B5341;}
+	.st126{fill:#3F3E39;}
+	.st127{fill:#6E605D;}
+	.st128{fill:#D66969;}
+	.st129{fill:#EB7D7D;}
+	.st130{fill:#4D413F;}
+	.st131{fill:#F2999A;}
+	.st132{fill:#C95F5F;}
+	.st133{fill:#D38488;}
+	.st134{fill:#F7D1B2;}
+	.st135{fill:#F2BC97;}
+	.st136{fill:#C5B69E;}
+	.st137{fill:#7A644F;}
+	.st138{fill:#564435;}
+	.st139{fill:#847866;}
+	.st140{fill:#ABABAE;}
+	.st141{fill:#A59783;}
+	.st142{fill:#F3C8AA;}
+	.st143{fill:#DBAD8F;}
+	.st144{fill:#1A1919;}
+	.st145{fill:#D37A55;}
+	.st146{fill:#F7A17A;}
+	.st147{fill:#231F20;}
+	.st148{fill:#777777;}
+	.st149{fill:#AA9B85;}
+	.st150{fill:#5E4A3A;}
+	.st151{fill:#858589;}
+	.st152{fill:none;}
+	.st153{fill:#9E9490;}
+	.st154{fill:#84736D;}
+	.st155{opacity:0.5;}
+	.st156{fill:#776C68;}
+	.st157{fill:#C6BDB9;}
+	.st158{fill:#B2A9A6;}
+	.st159{fill:#998A84;}
+	.st160{fill:#A09895;}
+	.st161{fill:#F6EFED;}
+	.st162{fill:#D8CFCE;}
+	.st163{fill:#F8D0B2;}
+	.st164{fill:#3C1D15;}
+	.st165{fill:#1E0D09;}
+	.st166{fill:#776252;}
+	.st167{fill:#5E4B3B;}
+	.st168{fill:#7C6F5D;}
+	.st169{fill:#6B723F;}
+	.st170{fill:#F17C39;}
+	.st171{fill:#D16128;}
+	.st172{fill:#F4C19F;}
+	.st173{fill:#F4BD95;}
+	.st174{fill:#F7A07A;}
+	.st175{fill:#DEAF8F;}
+	.st176{fill:#514033;}
+	.st177{fill:#88983A;}
+	.st178{fill:#4E512A;}
+	.st179{fill:#F2B746;}
+	.st180{fill:#CE9232;}
+	.st181{fill:#993C21;}
+	.st182{fill:#842E1A;}
+	.st183{fill:#CD674E;}
+	.st184{fill:#E0BF72;}
+	.st185{fill:#843125;}
+	.st186{fill:#A84836;}
+	.st187{fill:#ED9A4C;}
+	.st188{fill:#C67838;}
+	.st189{fill:#BC9264;}
+	.st190{fill:#E0B480;}
+	.st191{fill:#F7D2A1;}
+	.st192{fill:#AF5B28;}
+	.st193{opacity:0.4;clip-path:url(#SVGID_8_);}
+	.st194{fill:#47230E;}
+	.st195{fill:#7B7042;}
+	.st196{clip-path:url(#SVGID_10_);fill:#514925;}
+	.st197{fill:#5F4B44;}
+	.st198{fill:#3D322E;}
+	.st199{fill:#261D1B;}
+	.st200{clip-path:url(#SVGID_12_);}
+	.st201{clip-path:url(#SVGID_14_);}
+	.st202{fill:#352723;}
+	.st203{fill:#B78B5C;}
+	.st204{fill:#D8AD79;}
+	.st205{clip-path:url(#SVGID_16_);}
+	.st206{fill:#42302A;}
+	.st207{fill:#231C1A;}
+	.st208{fill:#E8A43E;}
+	.st209{fill:#C4812A;}
+	.st210{fill:#665C31;}
+	.st211{fill:#474021;}
+	.st212{fill:#D1954E;}
+	.st213{fill:#996527;}
+	.st214{fill:#88311E;}
+	.st215{fill:#6B2217;}
+	.st216{fill:#494323;}
+	.st217{clip-path:url(#SVGID_18_);}
+	.st218{fill:#54180E;}
+	.st219{clip-path:url(#SVGID_20_);}
+	.st220{fill:#5D491D;}
+	.st221{fill:#2D1E1A;}
+	.st222{fill:#5A463F;}
+	.st223{fill:#EFB68B;}
+	.st224{fill:#D69569;}
+	.st225{fill:#56522F;}
+	.st226{fill:#423E21;}
+	.st227{fill:#747248;}
+	.st228{fill:#545131;}
+	.st229{fill:#CA8743;}
+	.st230{fill:#AF6E33;}
+	.st231{fill:#B3812C;}
+	.st232{fill:#8E6120;}
+	.st233{fill:#75501F;}
+	.st234{fill:#E9B35B;}
+	.st235{fill:#D19742;}
+	.st236{fill:#F7A356;}
+	.st237{fill:#CD7E3A;}
+	.st238{fill:#CE7F3E;}
+	.st239{fill:#8A6C2A;}
+	.st240{fill:#664E1F;}
+	.st241{fill:#442C1F;}
+	.st242{fill:#B38739;}
+	.st243{fill:#8F8953;}
+	.st244{fill:#726B3B;}
+	.st245{fill:#67544D;}
+	.st246{fill:#4C3A37;}
+	.st247{fill:#725D58;}
+	.st248{fill:#F3AE54;}
+	.st249{fill:#EB9422;}
+	.st250{fill:#AD7F2C;}
+	.st251{fill:#806C66;}
+	.st252{fill:#AF4E2C;}
+	.st253{fill:#772C15;}
+	.st254{clip-path:url(#SVGID_26_);}
+	.st255{fill:#8C361C;}
+	.st256{fill:#DB8F3D;}
+	.st257{fill:#BF762C;}
+	.st258{fill:#BA732B;}
+	.st259{fill:#DF9D67;}
+	.st260{fill:#BC7742;}
+	.st261{clip-path:url(#SVGID_28_);}
+	.st262{fill:#AF6F3F;}
+	.st263{fill:#33210F;}
+	.st264{fill:#A12F22;}
+	.st265{fill:#7F170F;}
+	.st266{clip-path:url(#SVGID_34_);}
+	.st267{fill:#631914;}
+	.st268{fill:#687B4F;}
+	.st269{fill:#78625E;}
+	.st270{fill:#594544;}
+	.st271{fill:#86706C;}
+	.st272{fill:#A5908D;}
+	.st273{fill:#B76E16;}
+	.st274{fill:#E5A951;}
+	.st275{clip-path:url(#SVGID_36_);}
+	.st276{fill:#BC8339;}
+	.st277{fill:#C48C41;}
+	.st278{clip-path:url(#SVGID_38_);fill:#231F20;}
+	.st279{clip-path:url(#SVGID_40_);fill:#4C4725;}
+	.st280{fill:#5A7768;}
+	.st281{fill:#6E887C;}
+	.st282{clip-path:url(#SVGID_42_);fill:#4D685B;}
+	.st283{clip-path:url(#SVGID_44_);fill:#364940;}
+	.st284{clip-path:url(#SVGID_46_);fill:#364940;}
+	.st285{fill:#364940;}
+	.st286{fill:#E5C265;}
+	.st287{fill:#4F4D2F;}
+	.st288{opacity:0.4;clip-path:url(#SVGID_48_);}
+	.st289{clip-path:url(#SVGID_50_);}
+	.st290{fill:#4F7261;}
+	.st291{clip-path:url(#SVGID_52_);fill:#2F493C;}
+	.st292{clip-path:url(#SVGID_54_);fill:#4D685B;}
+	.st293{fill:#88A494;}
+	.st294{clip-path:url(#SVGID_56_);fill:#4C765F;}
+	.st295{fill:#C9A24B;}
+	.st296{fill:#50542C;}
+	.st297{fill:#D9B45C;}
+	.st298{fill:#633411;}
+	.st299{fill:#A38884;}
+	.st300{fill:#7C6260;}
+	.st301{fill:#DDCCCA;}
+	.st302{fill:#926427;}
+	.st303{fill:#EDAE4A;}
+	.st304{fill:#5B522A;}
+	.st305{fill:#CC8A29;}
+	.st306{fill:#CEB157;}
+	.st307{opacity:0.3;clip-path:url(#SVGID_58_);}
+	.st308{clip-path:url(#SVGID_60_);}
+	.st309{clip-path:url(#SVGID_62_);}
+	.st310{clip-path:url(#SVGID_64_);}
+	.st311{fill:#4C4725;}
+	.st312{fill:#1B1415;}
+	.st313{fill:#4C3A36;}
+	.st314{fill:#42332E;}
+	.st315{fill:#493833;}
+	.st316{fill:#705A57;}
+	.st317{fill:#382B28;}
+	.st318{fill:#302421;}
+	.st319{fill:#513E3A;}
+	.st320{clip-path:url(#SVGID_66_);}
+	.st321{fill:#4F4A28;}
+	.st322{fill:#BF9A49;}
+	.st323{opacity:0.4;clip-path:url(#SVGID_68_);}
+	.st324{fill:#753C2B;}
+	.st325{fill:#492117;}
+	.st326{fill:#AD6D2D;}
+	.st327{fill:#721710;}
+	.st328{clip-path:url(#SVGID_70_);}
+	.st329{fill:#A08E8A;}
+	.st330{fill:#D18F3F;}
+	.st331{fill:#FCD9B1;}
+	.st332{fill:#4F3733;}
+</style>
+<g id="Rhinoceros">
+</g>
+<g id="Capybara">
+	<g>
+		<g>
+			<path class="st16" d="M292.5,417.3c0,0-11,5.6-12.8,17.5l18.7-12.1l-7.7,16.8l16.1-13.3L292.5,417.3z"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<path class="st17" d="M254.5,174.5c0,0,28-20.8,38.1-11.7c10,9.1-12.4,19.6-12.4,19.6L254.5,174.5z"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<path class="st18" d="M269.9,388.6c0,0-18.7,30.8-30.4,32.7c-11.7,1.9,6.1-86.9,6.1-86.9s-41.1-7.5-37.8-60.3
+				c0,0-24.3,3.3-33.6-3.3c-9.3-6.5-16.8-10.3-18.7-18.2c-1.9-7.9-5.1-42.5,13.5-50.4c18.7-7.9,70.5-33.6,80.8-32.2
+				c10.3,1.4,47.6,14.5,43.4,19.6c-4.2,5.1-6.1,2.8-6.1,2.8s32.7,22,27.1,24.3c-5.6,2.3-15.4-5.6-15.4-5.6s22.4,14.9,22,17.3
+				c0,0,101.8,1.4,120.5,85.5c18.7,84.1-23.8,115.8-23.8,115.8h-113C304.4,429.7,270.3,413.8,269.9,388.6z"/>
+		</g>
+	</g>
+	<g class="st13">
+		<g>
+			<path class="st19" d="M320.8,228.4c0.3-1.7-11-9.8-17.5-14.3c3.3,2,7.8,3.9,11,2.6c5.2-2.2-22.2-21-26.5-23.9
+				c0.8,0.3,2.6,0.3,5.5-3.2c4.2-5.1-33.2-18.2-43.4-19.6c-3.4-0.5-11.4,2.1-21.3,5.9c14.8,0.3,28.9,2.2,34.6,8.1
+				C276.8,198.4,289.8,233.1,320.8,228.4z"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<path class="st20" d="M256.3,308.7c-0.2,0-0.4,0-0.7-0.1c-0.9-0.4-1.4-1.4-1-2.3c0.5-1.3,13.3-32.7,44.8-41.7
+					c1-0.3,1.9,0.3,2.2,1.2c0.3,0.9-0.3,1.9-1.2,2.2c-29.8,8.5-42.4,39.3-42.5,39.6C257.7,308.2,257,308.7,256.3,308.7z"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<path class="st17" d="M249.8,213.5c0,0,13.1-23.4,31.3-15.9c18.2,7.5,23.8,31.1-18.7,34.3L249.8,213.5z"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<path class="st16" d="M154.6,227.2c0,0,4.4-7.2,11.4-5.6c7,1.6-1.3,22.4-11.4,16.3V227.2z"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<path class="st16" d="M208,214c0,0-7.2,4.4-2.8,8.6c4.4,4.2,14.7-5.7,13.8-8.6C218,211.1,208,214,208,214z"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<path class="st16" d="M239.3,411.7c0,0-9.8-6.8-14.2-3.5c-4.4,3.3-7.7,15.6-7.7,15.6S232.3,411.5,239.3,411.7z"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<path class="st16" d="M242.3,413.8c0,0-19.6,7.5-12.6,20.1L242.3,413.8z"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<path class="st16" d="M239.3,386.7c0,0-6.1-12.4-13.5-9.1c-7.5,3.3-8.4,17.7-8.4,17.7S229.7,379,239.3,386.7z"/>
+		</g>
+	</g>
+	<g class="st21">
+		<g>
+			<path class="st20" d="M211.7,275c0,0,17.3-15,22.2-12.1c4.9,2.8-17.7,18.4-20.6,16.1C210.3,276.6,211.7,275,211.7,275z"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<path class="st22" d="M258,219c-0.6,0-1.2-0.3-1.5-0.8c-0.5-0.8-0.3-1.9,0.6-2.5c0.4-0.2,9.4-5.8,25.5-3.4c1,0.1,1.7,1.1,1.5,2
+					c-0.1,1-1.1,1.6-2,1.5c-14.7-2.1-23,2.9-23.1,2.9C258.6,218.9,258.3,219,258,219z"/>
+			</g>
+		</g>
+	</g>
+	<g class="st5">
+		<g>
+			<path class="st19" d="M441.3,313.9c-3.4-15.2-9.5-27.8-17.3-38c2.4,43.3-7.6,139-141.9,138c9.9,10.1,22.3,15.9,22.3,15.9h113
+				C417.5,429.7,460,398,441.3,313.9z"/>
+		</g>
+	</g>
+	<g class="st5">
+		<g>
+			<path class="st19" d="M290.8,328.6c-42.2-2.5-36.3,54.4-32.4,76.5c6.5-8.3,11.5-16.6,11.5-16.6
+				C268,339.8,290.8,328.6,290.8,328.6z"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<path class="st20" d="M269.9,390.4c-1,0-1.7-0.8-1.8-1.7c-2.4-53.4,36.7-69.6,37.1-69.7c0.9-0.4,2,0.1,2.3,1
+					c0.4,0.9-0.1,2-1,2.3c-1.5,0.6-37.1,15.4-34.8,66.2C271.7,389.5,270.9,390.4,269.9,390.4C269.9,390.4,269.9,390.4,269.9,390.4z"
+					/>
+			</g>
+		</g>
+	</g>
+	<g class="st21">
+		<g>
+			<path class="st23" d="M342.1,230.8c4.9,16.8,21,56.4,54.3,48.4c9.7-2.3,17.4-5.2,23.5-8.4C397.3,244.6,363.8,234.6,342.1,230.8z"
+				/>
+		</g>
+	</g>
+</g>
+<g id="Orangutan">
+</g>
+<g id="Meerkat">
+</g>
+<g id="Polar_Bear">
+</g>
+<g id="Lemur">
+</g>
+<g id="Jaguar">
+</g>
+<g id="Sloth">
+</g>
+<g id="Platypus">
+</g>
+<g id="Sea_Lion">
+</g>
+<g id="Tamarin">
+</g>
+<g id="Ostrich">
+</g>
+<g id="Tortoise">
+</g>
+<g id="Tapir">
+</g>
+<g id="Flamingo">
+</g>
+<g id="Zoo_Keeper_1">
+</g>
+<g id="Zoo_Keeper_2">
+</g>
+<g id="Bucket">
+</g>
+<g id="_Zoo_Entrance">
+</g>
+<g id="Mini_Forest">
+</g>
+<g id="Garden">
+</g>
+<g id="Cave">
+</g>
+<g id="Park">
+</g>
+</svg>
