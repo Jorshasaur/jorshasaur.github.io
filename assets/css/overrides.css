@@ -1,3 +1,8 @@
 a.site-logo img {
     height: 150px !important;
 }
+
+.author__urls-wrapper .btn{
+    display: none;
+
+}
