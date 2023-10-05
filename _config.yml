@@ -10,8 +10,8 @@ github_username:  jorshasaur
 logo: "/assets/images/capy.svg"
 
 author:
-  name: "Your name"
-  bio: "hello world"
+  name: "Josh Barber"
+  bio: "This is an amazing bio!"
 
 # Build settings
 #theme: minimal-mistakes-jekyll

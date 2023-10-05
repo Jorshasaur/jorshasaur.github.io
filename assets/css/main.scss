@@ -3,6 +3,10 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-.site-logo img {
+a.site-logo img {
     height: 150px !important;
+}
+
+body {
+    color: red !important;
 }
