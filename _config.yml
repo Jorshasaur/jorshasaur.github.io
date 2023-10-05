@@ -34,7 +34,8 @@ author:
   bio: "hello world"
 
 # Build settings
-theme: minimal-mistakes-jekyll
+#theme: minimal-mistakes-jekyll
+remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin: dark
 plugins:
   - jekyll-feed
